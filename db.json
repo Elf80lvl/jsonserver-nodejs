@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "7314f97d-c6fd-4af1-bad4-bc600db98eca",
+      "name": "sdf",
+      "email": "sdf"
+    },
+    {
+      "id": "6c35f2d5-5195-44a7-a61f-0b42a4d86520",
+      "name": "gg",
+      "email": "ggg"
+    },
+    {
+      "id": "4728c4a8-aaf7-44cf-98e3-769938f7e781",
+      "name": "ggg",
+      "email": "eee"
+    }
+  ]
+}
